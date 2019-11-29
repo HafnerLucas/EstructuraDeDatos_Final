@@ -16,15 +16,15 @@ namespace Lucas
 
             while (comienzo)
             {
-                Console.WriteLine("Holis");
-                Console.WriteLine("1.Crear Pila");
-                Console.WriteLine("2.Borrar Pila");
+                Console.WriteLine("Bienvenido");
+                Console.WriteLine("1.Crear Pila Contenedora de Patentes");
+                Console.WriteLine("2.Borrar Pila Contenedora de Patentes");
                 Console.WriteLine("3.Agregar Patente");
                 Console.WriteLine("4.Borrar Patente");
                 Console.WriteLine("5.Listar Todas Las Patentes");
-                Console.WriteLine("6.Listar última Patente");
-                Console.WriteLine("7.Listar Primera Patente");
-                Console.WriteLine("8.Cantidad de Patentes");
+                Console.WriteLine("6.Listar Primera Patente");
+                Console.WriteLine("7.Listar Ultima Patente");
+                Console.WriteLine("8.Contador de de Patentes");
                 Console.WriteLine("9.Salir");
                 Console.WriteLine("10.Modificar Formato de Patente");
                 Console.WriteLine("11.Listado Alfabetico");
